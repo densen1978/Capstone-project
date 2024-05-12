@@ -25,4 +25,4 @@ The project's intended audience is the sales and marketing executives of the com
 
 - Customers Segmentation for [non-transacted](https://console.cloud.google.com/bigquery?sq=175663785125:8a32998c4c9542cba5c93b22966ebb40) and [transacted](https://console.cloud.google.com/bigquery?sq=175663785125:32d9e6bcc252461da659595b4d052eda) visitors
 - Customers Lifetime Value (CLV): [average revenue per week](https://console.cloud.google.com/bigquery?sq=175663785125:34feebd2b00b42bcbb005e79618a46b5), [cumulative sume of revenue](https://console.cloud.google.com/bigquery?sq=175663785125:7970983a8bed4497995aec700607c72b) and [revenue forecast](https://console.cloud.google.com/bigquery?sq=175663785125:7df53b52536643c39428d16c4bc52a7f)
-- [Probability of Purchase Analysis](https://colab.research.google.com/drive/1c4vS8vYEicW70Zdt7LT3afyCBJIFQgF_?usp=sharing)
+- [Probability of Purchase Analysis](https://colab.research.google.com/drive/1Ei0U5FfjKwgpa-mxXWWZZ_jnu0KHUBBn?usp=sharing)
