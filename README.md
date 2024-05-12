@@ -17,7 +17,7 @@ The project's intended audience is the sales and marketing executives of the com
 ## Results 
 
 - [Main Report](Customers-segmentation-and-probability-to-purchase-prediction-report.pdf)
-- [Presentation](Capstone presentation - Customers segmentation and probability to purchase prediction.pdf)
+- [Presentation](Capstone-presentation-Customers-segmentation-and-probability-to-purchase-prediction.pdf)
 - [Interactive Looker Dashboard](https://lookerstudio.google.com/reporting/deb964d9-e23e-4576-808e-0bfafc357cf2)
   
 
