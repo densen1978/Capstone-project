@@ -16,8 +16,8 @@ The project's intended audience is the sales and marketing executives of the com
 
 ## Results 
 
-- [Main Report](https://github.com/TuringCollegeSubmissions/dsenin-DACP.1.1/blob/main/Customers-segmentation-and-probability-to-purchase-prediction-report.pdf)
-- [Presentation](https://github.com/TuringCollegeSubmissions/dsenin-DACP.1.1/blob/main/Capstone%20presentation%20-%20Customers%20segmentation%20and%20probability%20to%20purchase%20prediction.pptx.pdf)
+- [Main Report](Customers-segmentation-and-probability-to-purchase-prediction-report.pdf)
+- [Presentation](Capstone presentation - Customers segmentation and probability to purchase prediction.pdf)
 - [Interactive Looker Dashboard](https://lookerstudio.google.com/reporting/deb964d9-e23e-4576-808e-0bfafc357cf2)
   
 
